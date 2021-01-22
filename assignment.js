@@ -60,7 +60,6 @@ function hotelCost(accomodationDay) {
 //var total = hotelCost(25);
 //console.log(total);
 
-
 //4.no problem
 function megaFriend(name) {
     var max = name[0].length;
@@ -73,6 +72,5 @@ function megaFriend(name) {
         }
     }
     return largestName;
-
 }
 //console.log(megaFriend(["maya", "mahir", "samarah", "shahjahan", "shudhangshu"]));
